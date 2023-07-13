@@ -1,0 +1,8 @@
+C:\data\ArrayMarksofStudent\ArrayMarksofStudent\bin\Debug\ArrayMarksofStudent.exe.config
+C:\data\ArrayMarksofStudent\ArrayMarksofStudent\bin\Debug\ArrayMarksofStudent.exe
+C:\data\ArrayMarksofStudent\ArrayMarksofStudent\bin\Debug\ArrayMarksofStudent.pdb
+C:\data\ArrayMarksofStudent\ArrayMarksofStudent\obj\Debug\ArrayMarksofStudent.csproj.AssemblyReference.cache
+C:\data\ArrayMarksofStudent\ArrayMarksofStudent\obj\Debug\ArrayMarksofStudent.csproj.SuggestedBindingRedirects.cache
+C:\data\ArrayMarksofStudent\ArrayMarksofStudent\obj\Debug\ArrayMarksofStudent.csproj.CoreCompileInputs.cache
+C:\data\ArrayMarksofStudent\ArrayMarksofStudent\obj\Debug\ArrayMarksofStudent.exe
+C:\data\ArrayMarksofStudent\ArrayMarksofStudent\obj\Debug\ArrayMarksofStudent.pdb
